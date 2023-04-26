@@ -16,4 +16,4 @@ After uploading the database to the sql server, update the "sqlbaglanti" class t
 (Veritabanını sql server'a yükledikten sonra, programımızı veritabanına bağlamak için "sqlbaglanti" classını güncelleyiniz. O class'ta yer alan adresi, kendi adresiniz ile değiştiriniz. Aksi takdirde program çalışmayacaktır.)
 
 
-baranozdeniz.com
+Contact: https://baranozdeniz.com
