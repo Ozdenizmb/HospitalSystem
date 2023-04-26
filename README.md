@@ -14,3 +14,6 @@ You can learn how to use the program with this video. There are certain rules fo
 After uploading the database to the sql server, update the "sqlbaglanti" class to connect our program to the database. Replace the address in that class with your own address. Otherwise, the program will not work.
 
 (Veritabanını sql server'a yükledikten sonra, programımızı veritabanına bağlamak için "sqlbaglanti" classını güncelleyiniz. O class'ta yer alan adresi, kendi adresiniz ile değiştiriniz. Aksi takdirde program çalışmayacaktır.)
+
+
+baranozdeniz.com
